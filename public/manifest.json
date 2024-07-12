@@ -1,0 +1,17 @@
+{
+    "name": "BHUMIRAKSHA",
+    "short_name": "BR",
+    "icons": [
+        {
+            "src": "/icons/logo.jpeg",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#FFFFFF",
+    "background_color": "#FFFFFF",
+    "start_url": "/",
+    "display": "standalone",
+    "orientation": "portrait"
+}
